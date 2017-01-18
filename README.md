@@ -4,24 +4,30 @@ Set of solutions for the exercises of the [Machine Learning Course on Coursera](
 All the solutions proposed have an optimized vectorized implementation, if you have a more efficient implementaion feel free to contact me.
 
 Week 2
-* Linear Regression with Multiple Variables
+* Linear Regression
 
 Week 3
 * Logistic Regression
 * Regularization
 
 Week 4
-* Neural Networks: Representation
+* Multi-class Classification
+* Neural Networks
 
 Week 5
-* Neural Networks: Learning
+* Neural Networks Learning
 
 Week 6
-* Machine Learning System Design
+* Regularized Linear Regression
+* Bias v.s. Variance
 
 Week 7
 * Support Vector Machines
 
 Week 8
-* K-Means
+* K-means Clustering
+* Principal Component Analysis
 
+Week 9
+* Anomaly Detection
+* Recommender Systems
