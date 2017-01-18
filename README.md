@@ -3,6 +3,8 @@ Set of solutions for the exercises of the [Machine Learning Course on Coursera](
 
 All the solutions proposed have an optimized vectorized implementation, if you have a more efficient implementaion feel free to contact me.
 
+### Table of Contents
+
 Week 2
 * Linear Regression
 
